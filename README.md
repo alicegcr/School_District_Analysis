@@ -9,8 +9,8 @@ This project was created to analyze student funding and standardized test scores
 5. Compare and contrast the data through grouping and aggregation functions.
 
 ## Resources
-Data source: new_full_student_data.csv
-Software: Pandas, Jupyter Notebook 6.4.8
+- Data source: new_full_student_data.csv
+- Software: Pandas, Jupyter Notebook 6.4.8
 
 ## Results
 - There is a greater average in reading scores than math scores among the students.
